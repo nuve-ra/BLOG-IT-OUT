@@ -1,0 +1,12 @@
+
+
+//Access-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MDRkOWM0ZWY3NjJlOWUxMjg4ZTA3ZSIsImlhdCI6MTcyODM3MTE0MH0.kU31Zl-_tmbD3ubRBM0d_BXUL57YvD6XR9VuM2Hc1qw"
+
+POST http://localhost:3000/search-blogs
+Content-Type:application/json
+
+{
+ "tag": "travel"
+
+}
+
